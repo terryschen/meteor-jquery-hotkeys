@@ -1,0 +1,9 @@
+{
+  "name": "jquery-hotkeys",
+  "description": "Meteor Packaged jquery-hotkeys (from John Resig https://github.com/jeresig/jquery.hotkeys)",
+  "homepage": "https://github.com/terryschen/meteor-jquery-hotkeys",
+  "author": "terryschen ",
+  "version": "0.0.1",
+  "git": "https://github.com/terryschen/meteor-jquery-hotkeys.git",
+  "packages": {}
+}
